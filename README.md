@@ -56,20 +56,6 @@ I have experience working as a Freelance Business Strategy Advisor, Research Fel
 
 I co-authored a paper on the impact of financial services on COVID-19 mortality, published in PLOS Global Public Health Journal. This work underscores my commitment to using data for impactful research and policy development.
 
-## Extracurricular Activities
-
-- **Vice President:** Student Political Action Coalition
-- **Director of Finance:** South Asian Student Association
-- **Project Manager/Summer Fellow/Member:** National BI Committee for the TAMID Group
-
-## Interests and Hobbies
-
-- **US and Global Politics/Public Policy:** Keen interest in shaping policies through data.
-- **Economic Theory:** Understanding economic principles to drive better decisions.
-- **US History:** Exploring historical contexts to inform present-day policies.
-- **Basketball:** A passionate follower of the game.
-- **Standup Comedy:** Enjoying humor as a creative outlet.
-
 ---
 
 Thank you for visiting my profile!
