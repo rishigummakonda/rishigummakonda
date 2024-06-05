@@ -45,12 +45,9 @@ Hello! I'm Rishi Gummakonda, an aspiring data scientist with a deep interest in 
 I have experience working as a Freelance Business Strategy Advisor, Research Fellow, Technology Services Associate, Finance Volunteer Intern, and Market Research Intern. My roles have equipped me with the ability to handle complex data projects and collaborate effectively with diverse teams.
 
 ## Education and Certifications
-
-- **Bachelor of Science in Business and Economics, double majoring in Business Information Systems & Marketing**,
-  - Minor in Data Science, Lehigh University
-- **Certificates:**
-  - Business Analytics
-  - Advanced Google Ads
+### Lehigh University
+- **Bachelor of Science in Business and Economics, double majoring in Business Information Systems & Marketing**
+  - Minor in Data Science, Certificate in Business Analytics, Lehigh University
 
 ## Publications and Research
 
