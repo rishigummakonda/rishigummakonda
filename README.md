@@ -46,11 +46,10 @@ I have experience working as a Freelance Business Strategy Advisor, Research Fel
 
 ## Education and Certifications
 
-- **Bachelor of Science in Business Information Systems & Marketing**
+- **Bachelor of Science in Business and Economics, double majoring in Business Information Systems & Marketing**,
   - Minor in Data Science, Lehigh University
 - **Certificates:**
   - Business Analytics
-  - Data
   - Advanced Google Ads
 
 ## Publications and Research
