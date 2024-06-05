@@ -47,7 +47,7 @@ I have experience working as a Freelance Business Strategy Advisor, Research Fel
 ## Education and Certifications
 ### Lehigh University
 - **Bachelor of Science in Business and Economics, double majoring in Business Information Systems & Marketing**
-  - Minor in Data Science, Certificate in Business Analytics, Lehigh University
+  - Minor in Data Science, Certificate in Business Analytics
 
 ## Publications and Research
 
